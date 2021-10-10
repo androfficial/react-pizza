@@ -6,3 +6,6 @@
 * React Skeleton
 * Axios
 * SCSS
+
+### Demo:
+https://react-pizza-my.herokuapp.com
