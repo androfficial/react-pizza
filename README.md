@@ -7,4 +7,4 @@
 * SCSS
 
 ### Demo:
-:fast_forward: [Клик](https://react-pizza-my.herokuapp.com)
+:fast_forward: [Click](https://react-pizza-my.herokuapp.com)
