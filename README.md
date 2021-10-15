@@ -1,4 +1,3 @@
-## Project for practice react.
 ### Stack:
 * ReactJS + React Hooks
 * Redux + Redux Hooks
