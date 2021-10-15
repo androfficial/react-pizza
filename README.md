@@ -7,4 +7,4 @@
 * SCSS
 
 ### Demo:
-https://react-pizza-my.herokuapp.com
+:information_source: [Клик](https://react-pizza-my.herokuapp.com)
