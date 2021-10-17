@@ -5,6 +5,3 @@
 * React Skeleton
 * Axios
 * SCSS
-
-### Demo:
-### :fast_forward: [Link](https://react-pizza-my.herokuapp.com)
